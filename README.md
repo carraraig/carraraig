@@ -1,4 +1,4 @@
-### I'm Igor CARRARA, PhD Student <a href="https://www.linkedin.com/in/carraraig/">
+### I'm Igor CARRARA, PhD Student<a href="https://www.linkedin.com/in/carraraig/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a PhD student at INRIA sophia antipolis, Cronos Team
-I’m currently working on new algorithm for Brain Computer Interfaces (BCI) classification with particular focus on Motor Imagery.
-I'm collaborating with MOABB to integrate DeepLearning methods in the benchmark (https://github.com/NeuroTechX/moabb)
+- I'm a PhD student at INRIA sophia antipolis, Cronos Team
+- I’m currently working on new algorithm for Brain Computer Interfaces (BCI) classification with particular focus on Motor Imagery.
+- I'm collaborating with MOABB to integrate DeepLearning methods in the benchmark (https://github.com/NeuroTechX/moabb)
 
 
