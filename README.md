@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm Igor CARRARA, PhD Student
+
+<a href="https://www.linkedin.com/in/carraraig/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **carraraig/carraraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
