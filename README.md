@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I'm collaborating with MOABB to integrate DeepLearning methods in the benchmark (https://github.com/NeuroTechX/moabb)
 
 Reach me at <a href="https://www.linkedin.com/in/carraraig/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Igor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
