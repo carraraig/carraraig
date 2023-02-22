@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Igor Carrara</h1>
 <h3 align="center">PhD Student BCI-EEG | 🎓Theoretical Physicist | 💻Data Analyst | 🧠 Curious Mind</h3>
 
+- 💬 I'm a **PhD student at INRIA sophia antipolis, Cronos Team**
+
 - 🔭 I’m currently working on **new algorithm for Brain Computer Interfaces (BCI) classification with particular focus on Motor Imagery**
 
 - 🌱 I’m currently learning **DeepLearning Model in tensorflow applied on EEG raw data**
 
 - 👯 I’m currently collaborating on [with MOABB to integrate DeepLearning methods in the benchmark](https://github.com/NeuroTechX/moabb)
-
-- 💬 I'm a **PhD student at INRIA sophia antipolis, Cronos Team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
