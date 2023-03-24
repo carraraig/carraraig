@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DeepLearning Model in Tensorflow and PyTorch applied on EEG raw data**
 
-- 👯 I’m currently collaborating on [with MOABB to integrate DeepLearning methods in the benchmark](https://github.com/NeuroTechX/moabb)
+- 👯 I’m currently collaborating on [with MOABB](https://github.com/NeuroTechX/moabb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
