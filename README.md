@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **new algorithm for Brain Computer Interfaces (BCI) classification with particular focus on Motor Imagery**
 
-- 🌱 I’m currently learning **DeepLearning Model in tensorflow applied on EEG raw data**
+- 🌱 I’m currently learning **DeepLearning Model in Tensorflow and PyTorch applied on EEG raw data**
 
 - 👯 I’m currently collaborating on [with MOABB to integrate DeepLearning methods in the benchmark](https://github.com/NeuroTechX/moabb)
 
